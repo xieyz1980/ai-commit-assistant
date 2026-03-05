@@ -1,6 +1,7 @@
 # 🤖 AI Commit Assistant
 
 <p align="center">
+  <a href="https://github.com/xieyz1980/ai-commit-assistant/stargazers"><img src="https://img.shields.io/github/stars/xieyz1980/ai-commit-assistant?style=social" alt="GitHub stars"></a>
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python 3.8+">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/AI-OpenAI%20%7C%20Claude%20%7C%20Gemini-orange.svg" alt="AI Providers">
